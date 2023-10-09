@@ -19,10 +19,6 @@ sections:
     links:
       - link: "/"
         text: "Home"
-      - link: "/feature"
-        text: "Feature"
-      - link: "/pricing"
-        text: "Price"
       - link: "/about"
         text: "About"
   -
